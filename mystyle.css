@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;}
+
+h1 {font-family: Copperplate, fantasy;
+  color: Magenta;
+  text-align: center;}
+
+h2 {font-family: sans-serif;
+  color: #7300b9;
+  margin-left: 20px;}
+
+h4 {font-family: sans-serif;
+  color: #ff7000;
+  margin-left: 20px;}
+
+h5 {font-family: sans-serif;
+  color: #Black;
+  margin-left: 20px;}
+
+p {font-family: Arial, sans-serif;}
+
+.cropped{width: 70%;}
+
+.full{width: 75%;}
